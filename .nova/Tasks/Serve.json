@@ -1,0 +1,10 @@
+{
+  "actions" : {
+    "run" : {
+      "enabled" : true,
+      "script" : "bundle exec jekyll serve --increment"
+    }
+  },
+  "identifier" : "B4F4EBC1-A958-4622-91A5-3775F0A928F1",
+  "persistent" : true
+}
